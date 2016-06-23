@@ -14,6 +14,9 @@
 		4219893E1D1B668100DEC97A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4219893C1D1B668100DEC97A /* Main.storyboard */; };
 		421989401D1B668200DEC97A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4219893F1D1B668100DEC97A /* Assets.xcassets */; };
 		421989431D1B668200DEC97A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 421989411D1B668200DEC97A /* LaunchScreen.storyboard */; };
+		421989591D1B851300DEC97A /* bird1.png in Resources */ = {isa = PBXBuildFile; fileRef = 421989561D1B851300DEC97A /* bird1.png */; };
+		4219895A1D1B851300DEC97A /* bird2.png in Resources */ = {isa = PBXBuildFile; fileRef = 421989571D1B851300DEC97A /* bird2.png */; };
+		4219895B1D1B851300DEC97A /* bird3.png in Resources */ = {isa = PBXBuildFile; fileRef = 421989581D1B851300DEC97A /* bird3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		4219893F1D1B668100DEC97A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		421989421D1B668200DEC97A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		421989441D1B668200DEC97A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		421989561D1B851300DEC97A /* bird1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird1.png; sourceTree = "<group>"; };
+		421989571D1B851300DEC97A /* bird2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird2.png; sourceTree = "<group>"; };
+		421989581D1B851300DEC97A /* bird3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +68,9 @@
 				421989361D1B668100DEC97A /* GameScene.sks */,
 				421989381D1B668100DEC97A /* GameScene.swift */,
 				4219893A1D1B668100DEC97A /* GameViewController.swift */,
+				421989561D1B851300DEC97A /* bird1.png */,
+				421989571D1B851300DEC97A /* bird2.png */,
+				421989581D1B851300DEC97A /* bird3.png */,
 				4219893C1D1B668100DEC97A /* Main.storyboard */,
 				4219893F1D1B668100DEC97A /* Assets.xcassets */,
 				421989411D1B668200DEC97A /* LaunchScreen.storyboard */,
@@ -128,10 +137,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				421989591D1B851300DEC97A /* bird1.png in Resources */,
 				421989371D1B668100DEC97A /* GameScene.sks in Resources */,
 				421989431D1B668200DEC97A /* LaunchScreen.storyboard in Resources */,
 				421989401D1B668200DEC97A /* Assets.xcassets in Resources */,
 				4219893E1D1B668100DEC97A /* Main.storyboard in Resources */,
+				4219895B1D1B851300DEC97A /* bird3.png in Resources */,
+				4219895A1D1B851300DEC97A /* bird2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
